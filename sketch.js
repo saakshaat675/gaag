@@ -42,3 +42,4 @@ function draw(){
     game.end();
   }
 }
+//the story ended here
